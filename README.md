@@ -55,4 +55,8 @@ It has a readme explaining how to use it._
 
    c- Check this [link](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c?redirectedfrom=MSDN) to look for your desired language ID from list and Copy the part after 0x part.
    
-> For example check [this](https://i.stack.imgur.com/idMMr.png), for en-US, get 0409. 
+> For example check [this](https://i.stack.imgur.com/idMMr.png), for en-US, get 0409.
+
+   d- Double-click on **Default** to change its value to the desired language ID, same for **InstallLanguage**'s value.
+   
+   e- Exit the registry editor and restart.
