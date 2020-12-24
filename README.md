@@ -23,7 +23,10 @@ It has a readme explaining how to use it_
     Press *Win+R* and type cmd, then press *ctrl+shift+enter* to Command Prompt as an Administrator.
 >
     2- Type dism /online /get-packages and press Enter.
-> _We are looking for **Microsoft-Windows-Client-LanguagePack-Package** as a start for Package Identity. And its State should be **Installed** Check [this image](https://i.stack.imgur.com/FoP0c.png)_
+> _We are looking for **Microsoft-Windows-Client-LanguagePack-Package** as a start for Package Identity. And its State should be **Installed** Check [this image](https://i.stack.imgur.com/FoP0c.png)._
 
-> You can see next 5 characters after ~ for understand which language it is.
+> You can see next 5 characters after ~ for understanding which language it is.
 > In this example, we are seeing **tr-TR**. If you are looking for English for example, you should look for **en-US**.
+
+I think you should use an
+`<addr>` element here instead.
