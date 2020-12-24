@@ -18,4 +18,4 @@ It has a readme explaining how to use it_
 
         1- First check installed language packs on your computer. 
             >Maybe your desired language is already installed but not selected. 
-            Press /Win+R/ and type cmd, then press /ctrl+shift+enter/ to Command Prompt as an Administrator.
+            Press *Win+R* and type cmd, then press *ctrl+shift+enter* to Command Prompt as an Administrator.
