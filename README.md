@@ -33,4 +33,6 @@
 > _You can use this tool for example for step 1-g [ESD2CAB-CAB2ESD](https://github.com/abbodi1406/WHD/blob/master/scripts/ESD2CAB-CAB2ESD.zip) .
 It has a readme explaining how to use it._
 
- 4- Installing the desired display Language.
+ 4- Installing the desired display Language:
+    a- Open the Command Prompt again as an administrator.
+    b- Type `dism /online /add-package /packagepath:`**C:\lp.cab**
