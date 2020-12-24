@@ -14,18 +14,20 @@
 
  3- Downloading the desired display language:
 
-    1- Visiting https://uupdump.ml/
+   a- Visiting [uupdump Website](https://uupdump.ml/).
 
-    2- Searching for keywords of your Win10 build. For example, System Information showed my Win10 was at version 10.0.18363, build 18363, so I entered "18363 amd64"
+   b- Searching for keywords of your Windows 10 Build Version.
+   
+> For example, System Information showed my OS Build Version **19042.685**, so I entered _**19042.685**_.
+   
+   c- Clicking on a Cumulative update of your build in the search results
 
-    3- Clicking on a Cumulative update of your build in the search results
+   d- In Search files, search for "languagepack"
 
-    4- In Search files, search for "languagepack"
-
-    5- Downloading the .esd file of the language pack you wish to use
+   e- Downloading the .esd file of the language pack you wish to use
     
-    6- Rename the downloaded file with just adding .esd at the end of it.
+   f- Rename the downloaded file with just adding .esd at the end of it.
 
-    7- Converting the .esd file into a .cab file. 
-> _You can use this tool for example [ESD2CAB-CAB2ESD](https://github.com/abbodi1406/WHD/blob/master/scripts/ESD2CAB-CAB2ESD.zip) .
+   g- Converting the .esd file into a .cab file. 
+> _You can use this tool for example for step 1-g [ESD2CAB-CAB2ESD](https://github.com/abbodi1406/WHD/blob/master/scripts/ESD2CAB-CAB2ESD.zip) .
 It has a readme explaining how to use it._
