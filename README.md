@@ -1,7 +1,6 @@
 **Applying a display language even for a Home Edition single language:**
 > _Maybe your desired language is already installed but not selected._
-    
-> First check installed language packs on your computer:
+> First, check installed language packs on your computer:
 
    **1- Press `Win+R` and type cmd, then press `ctrl+shift+enter` to Command Prompt as an Administrator.**
    
