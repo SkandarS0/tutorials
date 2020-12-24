@@ -42,3 +42,7 @@ It has a readme explaining how to use it._
 >**Instead of _C:\lp.cab_ you have to type the absolute path of the _.cab_ file and then paste the name of the _.cab_ with its extension `.cab`**
     
    c- Press `enter` .
+   
+   d- Wait for the installation to be finished.
+   
+ 5- Applying :heavy_check_mark::
