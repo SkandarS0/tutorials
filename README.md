@@ -2,6 +2,7 @@
 > _Maybe your desired language is already installed but not selected._
     
 > First check installed language packs on your computer:
+
    1- Press `Win+R` and type cmd, then press `ctrl+shift+enter` to Command Prompt as an Administrator.
 >
    2- Type `dism /online /get-packages` and press `enter`.
