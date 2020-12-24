@@ -18,7 +18,7 @@
 
    b- Searching for keywords of your Windows 10 Build Version.
    
-> For example, System Information showed my OS Build Version **19042.685**, so I entered _**19042.685**_.
+> For example, System Information showed my OS Build Version **19042.685**, so I entered _**19042.685**_ as [this image](
    
    c- Clicking on a Cumulative update of your build in the search results
 
