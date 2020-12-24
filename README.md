@@ -16,4 +16,6 @@ It has a readme explaining how to use it_
 
 **Applying a display language even for a Home Edition single language:**
 
-        1- First check installed language packs on your computer. Maybe your desired language is already installed but not selected. Press /Win+R/ and type cmd, then press /ctrl+shift+enter/ to Command Prompt as an Administrator.
+        1- First check installed language packs on your computer. 
+            > *Maybe your desired language is already installed but not selected.* 
+            Press /Win+R/ and type cmd, then press /ctrl+shift+enter/ to Command Prompt as an Administrator.
