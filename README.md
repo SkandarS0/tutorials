@@ -46,3 +46,11 @@ It has a readme explaining how to use it._
    d- Wait for the installation to be finished.
    
  5- Applying :heavy_check_mark::
+    
+   a- Press `Win+R`, type `regedit`, press `ctrl+shift+enter` for the Administrative rights.
+   
+   b- Navigate to `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nls\Language`.
+   
+> Default entry shows that language id of your system.
+   c- Check this [link](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c?redirectedfrom=MSDN) to look for your desired language ID from list and Copy the part after 0x part.
+> For example check [this](https://i.stack.imgur.com/idMMr.png), for en-US, get 0409. 
