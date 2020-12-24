@@ -34,8 +34,10 @@
 It has a readme explaining how to use it._
 
  4- Installing the desired display Language:
-    a- Open the Command Prompt again as an administrator.
-    b- Type `dism /online /add-package /packagepath:C:\lp.cab` .
+ 
+   a- Open the Command Prompt again as an administrator.
+    
+   b- Type `dism /online /add-package /packagepath:C:\lp.cab` .
     
 >**Instead of _C:\lp.cab_ you have to type the absolute path of the _.cab_ file and then paste the name of the _.cab_ with its extension `.cab`**
     
