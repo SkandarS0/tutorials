@@ -3,9 +3,9 @@
 
 > First, check installed language packs on your computer.
 
-   **1- Press `Win+R` and type cmd, then press `ctrl+shift+enter` to Command Prompt as an Administrator.**
+   **1- Press `Win+R` and type cmd, then press** `ctrl+shift+enter` **to Command Prompt as an Administrator.**
    
-   **2- Type `dism /online /get-packages` and press `enter`.**
+   **2- Type** `dism /online /get-packages` **and press** `enter`.**
 > _We are looking for **Microsoft-Windows-Client-LanguagePack-Package** as a start for **Package Identity**. And its State should be **Installed** as [this image](https://i.stack.imgur.com/FoP0c.png)._
 
 > You can see next 5 characters after _~_ for understanding which language it is.
