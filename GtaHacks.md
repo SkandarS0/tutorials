@@ -5,7 +5,7 @@
 
 **2- Change this stat to select the approach:**
 
-     `$MP0_H3OPT_APPROACH` = 1, 2 or 3.
+     $MP0_H3OPT_APPROACH = 1, 2 or 3.
      
 >1: for Silent & Sneaky approach.
 
@@ -15,7 +15,7 @@
 
 **3- Change this stat to select the Target:**
 
-     `$MP0_H3OPT_TARGET` = 0, 1, 2 or 3.
+     $MP0_H3OPT_TARGET = 0, 1, 2 or 3.
      
 >0: for Cash
 
@@ -27,7 +27,7 @@
 
 **4.1- Change this stat to confirm what you have done:**
 
-      `$MP0_H3OPT_BITSET1` = -1.
+      $MP0_H3OPT_BITSET1 = -1.
       
 > _Now the screen will blackout for a second and then you'll see thatthe 1st board is set._
 
@@ -39,7 +39,7 @@
 
 **6- Change this stat to set up the 2nd board setups/preps.**
 
-      `$MP0_H3OPT_BITSET0` = 0.
+      $MP0_H3OPT_BITSET0 = 0.
 
 > _Now the screen will blackout for a second and then you'll see that the 2st board is set._
 
