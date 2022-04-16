@@ -15,7 +15,7 @@
 
  **3- Downloading the desired display language:**
 
-   a- Visiting [uupdump Website](https://uupdump.ml/).
+   a- Visiting [uupdump Website](https://uupdump.net/).
 
    b- Searching for keywords of your Windows 10 Build Version.
    
